@@ -31,7 +31,7 @@ main{
 }
 .button{
     padding:20px 50px;
-    background:#394445;
+    background:#46a3d0;
     color:white;
     border-radius: 5px;
     margin:5% auto;
@@ -39,11 +39,11 @@ main{
     text-decoration: none;
     text-transform: uppercase;
     font-size:1.2em;
-    border-right: 3px solid #2a3232;
-    border-bottom: 3px solid #2a3232;
+    border-right: 3px solid #2e89b5;
+    border-bottom: 3px solid #2e89b5;
     transition-duration: 500ms;
     &:hover{
-        background:#2a3232;
+        background:#2e89b5;
         box-shadow: 1px 2px 5px #1a1f20;
     }
 }
